@@ -21,9 +21,11 @@ This project is a simple Python-based restaurant menu system that allows custome
 - **User-Friendly**: Prompts the user to select food categories and quantity in a simple and intuitive manner.
 
 ## Installation
-1. Clone or download the repository:
+1. ## Installation
+1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/restaurant-menu-system.git
+   git clone https://github.com/databyharriet/Restaurant-Menu-System.git
+
    ```
 2. Make sure you have Python installed (version 3.x+). You can download Python from [here](https://www.python.org/downloads/).
 
